@@ -16,7 +16,10 @@ The data and our analysis shows that over 2.3 million rides occurred in just one
 An aspect that we looked at further is whether this is a model that would work in a smaller city. Our research suggests that smaller cities with high growth rates, tourism potential, and a younger population would be great sites for ride sharing. With these observations in mind, we hae selected Des Moines as an ideal location for our new service.  
 
 ## You can find our presentation/Tableau story at our share folder:  
-https://public.tableau.com/profile/ashok.ramaswami#!/vizhome/Citibikeanalysis_15921045314850/InvestmentOpportunity?publish=yes
+https://public.tableau.com/profile/ashok.ramaswami#!/vizhome/Citibikeanalysis_15921045314850/InvestmentOpportunity?publish=yes  
+
+I have also uploaded the Tableau workbook for your reference:  
+https://github.com/aramaswami/bikesharing/blob/master/Citibike%20analysis.twb
   
 
   
